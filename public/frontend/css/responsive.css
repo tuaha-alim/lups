@@ -1,0 +1,1204 @@
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 2000px) {
+
+.single_images {
+	height: 100%;
+	border: 1px solid #fff;
+}
+.banner_content {
+	width: 90%;
+	text-align: center;
+}
+
+/* Conatact page css started */
+.contact_section {
+	margin-top: 80px;
+	padding: 50px;
+}
+/* gallery page css started */
+.content h3 {
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+.content p {
+	font-size: 12px;
+	margin: 0;
+}
+.single_img > i {
+	font-size: 30px;
+}
+
+.contact_box {
+	width: 800px;
+	margin: 0 auto;
+	color: #fff;
+}
+
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.navbar {
+	height: 70px;
+}
+.submition_section {
+	padding: 50px 0px;
+}
+.submition_section h4 {
+	font-size: 22px;
+}
+.submition_section h4 span {
+	margin-left: 127px;
+}
+.about_sec p {
+	font-size: 18px;
+}
+.activiti_sec h3 {
+	margin-top: 15px;
+}
+.activiti_box {
+	min-height: 0;
+	height: 412px;
+}
+.carousel-item {
+	height: 500px;
+}
+.carousel-item img {
+	width: 100%;
+	height: 100%;
+}
+.banner_content {
+	width: 100%;
+	text-align: center;
+}
+.carousel-item {
+	height: 100%;
+}
+.team_description p {
+	font-size: 14px;
+}
+.teamy__name {
+	font-size: .8em;
+	line-height: 23px;
+}
+.teamy__post {
+	font-size: .5em;
+}
+.teamy__content {
+	padding: 10px;
+}
+
+/* about page css started */
+.head_line {
+	font-size: 26px;
+}
+.PhotoPar {
+	font-size: 28px;
+}
+.about_studio {
+	width: 99%;
+}
+.container {
+	max-width: 100%;
+}
+.what_we_mgs h1 {
+	font-size: 28px;
+}
+.single_images {
+	height: 100%;
+	border: 1px solid #fff;
+	box-sizing: border-box;
+}
+.section_gellary {
+	padding: 40px 0px;
+}
+
+
+/* advisor's corner page css started */
+.banner_content {
+	width: 100%;
+	text-align: center;
+}
+
+
+/* Conatact page css started */
+.contact_section {
+	margin-top: 70px;
+	padding: 40px 0px;
+}
+
+.contact_box {
+	position: relative;
+	top: 0;
+	left: 0;
+	transform: translate(-0%,-0%);
+	background: transparent;
+	padding: 0;
+	box-shadow: none;
+	width: 70%;
+	margin: 0 auto;
+	padding: 0px 0px;
+	color: #fff;
+}
+.contact_section {
+	height: 100%;
+}
+
+/* gallery page css started */
+.content h3 {
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.content p {
+	font-size: 12px;
+	margin: 0;
+}
+.single_img > i {
+	font-size: 30px;
+}
+.content {
+	padding: 8px 8px;
+}
+
+
+/* Executive page css started */
+.single_member {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.workshop_partners_area {
+	padding: 40px 0px;
+}
+
+
+
+
+
+
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.dropdown-menu.show {
+	width: 97%;
+}
+
+#carouselExampleIndicators {
+	margin-top: 80px;
+}
+.navbar {
+	padding: 0;
+	/*box-shadow: 0px 0px 0px 0px;*/
+}
+.navbar-brand {
+	width: 74%;
+}
+
+.navbar-light .navbar-toggler {
+	border: none;
+	outline: none;
+}
+.navbar-nav {
+	margin-top: 10px;
+}
+.nav-item {
+	padding: 0px 15px;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+.navbar li a {
+	display: block;
+	font-size: 13px;
+	padding: 7px 8px;
+}
+.dropdown-menu {
+	 padding: 0; 
+	 border: none; 
+	border-radius: 0;
+	margin-left: 10px;
+}
+.navbar-nav .nav-link {
+	color: #000 !important;
+	padding: 6px 7px;
+}
+.navbar li a {
+	box-shadow: 0px 0px 2px 1px #ddd;
+	margin-bottom: 5px;
+}
+.dropdown-toggle::after {
+	margin-left: 196px;
+	vertical-align: 2px;
+	border-top: 0.4em solid;
+	border-right: .4em solid transparent;
+	border-left: .4em solid transparent;
+	position: absolute;
+	right: 25px;
+	top: 13px;
+}
+
+	.navbar-brand {
+	width: 40%;
+}
+
+
+.carousel-inner {
+	height: 100%;
+}
+.submition_section {
+	padding: 50px 0px;
+}
+.submition_section a {
+	padding: 5px 10px;
+	border: 2px solid #ff2a40;
+	font-weight: 400;
+	width: 158px;
+	text-align: center;
+	font-size: 14px;
+}
+.submition_section h4 {
+	font-size: 20px;
+}
+.submition_section h4 span {
+	margin-left: 115px;
+}
+.navbar-nav > li::before {
+	display: none;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+	color: #ff2a40 !important;
+}
+.team_description p {
+	font-size: 15px;
+}
+.team_description > a {
+	font-size: 15px;
+	padding: 4px 16px;
+	margin-top: 30px;
+}
+.teamy__name {
+	font-size: .7em;
+	line-height: 22px;
+	font-weight: 600;
+}
+.teamy__post {
+	font-size: .5em;
+}
+
+.about_sec {
+	padding: 50px 0px;
+}
+.about_sec p {
+	margin: 20px auto;
+	font-size: 17px;
+}
+.carousel-item {
+	height: 400px;
+}
+.carousel-item img {
+	width: 100%;
+	height: 100%;
+}
+.PhotoHeader {
+	width: 100%;
+}
+.PhotoPar {
+	font-size: 27px;
+}
+.section_gellary {
+	padding: 40px 0px;
+}
+.activiti_sec h3 {
+	margin-top: 15px;
+}
+
+
+/* about page css started */
+.about_studio {
+	width: 99%;
+}
+.studio_content p {
+	font-size: 16px;
+}
+.studio_image {
+	height: 347px;
+}
+.studio_image img {
+	width: 100%;
+	height: 100%;
+}
+.what_we_mgs {
+	width: 100%;
+}
+
+.messanger_img {
+	height: 100%;
+}
+.messanger_img img {
+	height: auto; 
+}
+.messanger_img {
+	width: 50%;
+	margin: 15px auto;
+}
+.owner_msg {
+	margin-top: 25px;
+	min-height: 300px;
+}
+.container-fluid {
+	width: 90%;
+}
+.single_images {
+	height: 100%;
+	border: 1px solid #fff;
+}
+.what_we_mgs h1 {
+	font-size: 26px;
+}
+.container {
+	max-width: 100%;
+}
+
+
+
+/* advisor's corner page css started */
+.banner_content {
+	width: 100%;
+	text-align: center;
+}
+.banner_content h1 {
+	font-size: 50px;
+}
+
+
+/* Conatact page css started */
+.contact_section {
+	margin-top: 80px;
+	padding: 40px 0px;
+	color: #fff;
+}
+.contact_section h2 {
+	font-size: 30px;
+}
+.form_headline h4 {
+	font-size: 23px;
+}
+.contact_box {
+	position: relative;
+	top: 0;
+	left: 0;
+	transform: translate(-0%,-0%);
+	background: transparent;
+	padding: 0;
+	box-shadow: none;
+	width: 70%;
+	margin: 0 auto;
+	padding: 0px 0px;
+}
+.contact_section {
+	height: 100%;
+}
+.contact_box input[type="text"] {
+	padding: 8px;
+	border-radius: 2px;
+	margin-bottom: 18px;
+}
+.contact_box textarea {
+	border-radius: 2px;
+	height: 170px;
+	padding: 8px 8px;
+}
+.contact_button {
+	width: 100%;
+}
+
+
+/* gallery page css started */
+.content h3 {
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.content p {
+	font-size: 12px;
+	margin: 0;
+}
+.single_img > i {
+	font-size: 30px;
+}
+.content {
+	padding: 8px 8px;
+}
+.container-fluid {
+	width: 100%;
+}
+
+
+
+/* Executive page css started */
+.committee_headline h2 {
+	font-size: 27px;
+}
+.single_member {
+	width: 230px;
+	height: 230px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.member_desc h3 {
+	font-size: 22px;
+}
+.member_desc p {
+	font-size: 12px;
+}
+
+
+.content_details h3 {
+	font-size: 20px;
+}
+.main_imput_section input[type="text"], .main_imput_section input[type="file"], select, .main_imput_section input[type="submit"] {
+	padding: 5px;
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.main_imput_section textarea {
+	padding: 10px;
+	font-size: 15px;
+	min-height: 140px;
+	margin-bottom: 7px;
+}
+.content_details ul li {
+	font-size: 15px;
+}
+.image_uploade_area {
+	height: 500px;
+}
+.head_line {
+	font-size: 24px;
+}
+.single_partners {
+	height: 120px;
+}
+.street p {
+	font-size: 16px;
+}
+.street span {
+	font-size: 17px;
+}
+
+
+
+
+
+
+}
+
+ 
+/* Extra small Device. */
+@media only screen and (min-width: 0px) and (max-width: 576px) {
+
+.navbar {
+	padding: 0;
+}
+.navbar-brand {
+	width: 74%;
+	height: 60px;
+}
+
+
+.carousel-inner {
+	height: 100%;
+}
+.submition_section {
+	padding: 50px 0px;
+}
+.submition_section a {
+	padding: 5px 10px;
+	border: 2px solid #ff2a40;
+	font-weight: 400;
+	width: 158px;
+	text-align: center;
+	font-size: 14px;
+}
+.submition_section h4 {
+	font-size: 19px;
+	text-align: center;
+	margin-top: -26px;
+	margin-bottom: 24px;
+}
+.submition_section h4 span {
+	margin-left: 0px;
+}
+.submition_section a {
+	top: 70%;
+}
+.navbar-nav > li::before {
+	display: none;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+	color: #ff2a40 !important;
+}
+.teamy-team {
+	--scrollerNumberVisibleItems: 1;
+}
+.team_description p {
+	font-size: 16px;
+}
+.team_description > a {
+	font-size: 13px;
+	padding: 6px 20px;
+	margin-top: 15px;
+}
+.teamy__name {
+	font-size: 1em;
+}
+.teamy__post {
+	margin-top: .5em;
+	font-size: .6em;
+}
+
+
+
+.navbar-light .navbar-toggler {
+	border: none;
+	outline: none;
+}
+.navbar-nav {
+	margin-top: 10px;
+}
+.nav-item {
+	padding: 0px 15px;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+.navbar li a {
+	display: block;
+	font-size: 13px;
+	padding: 7px 8px;
+}
+.dropdown-menu {
+	padding: 0;
+	border: none;
+	border-radius: 0;
+	margin-left: 10px;
+	float: right !important;
+}
+.navbar-nav .nav-link {
+	color: #000 !important;
+	padding: 6px 7px;
+}
+.navbar li a {
+	box-shadow: 0px 0px 2px 1px #ddd;
+	margin-bottom: 5px;
+}
+.dropdown-toggle::after {
+	margin-left: 196px;
+	vertical-align: 2px;
+	border-top: 0.4em solid;
+	border-right: .4em solid transparent;
+	border-left: .4em solid transparent;
+	position: absolute;
+	right: 25px;
+	top: 13px;
+}
+#carouselExampleIndicators {
+	margin-top: 60px;
+}
+
+.carousel-item {
+	height: 180px;
+}
+.carousel-item img {
+	width: 100%;
+	height: 100%;
+}
+
+.carousel-indicators {
+	display: none;
+}
+.about_sec {
+	padding: 40px 0px;
+	text-align: center;
+}
+.about_sec h2 {
+	font-size: 24px;
+}
+.about_sec p {
+	font-size: 17px;
+	margin: 20px auto;
+	text-align: center;
+}
+.section-text-over-media .text {
+	margin: 40px auto;
+}
+.activiti_sec h3 {
+	font-size: 24px;
+	margin-top: 20px;
+}
+.head_line {
+	margin: 0;
+	font-size: 24px;
+	width: 100%;
+}
+.activiti_box {
+	margin: 0;
+	margin-bottom: 20px;
+}
+.PhotoHeader {
+	width: 100%;
+}
+.section_gellary {
+	padding: 40px 0px;
+}
+.PhotoPar {
+	font-size: 24px;
+}
+.street .pad {
+	padding: 40px 10px;
+	background: rgba(0,0,0,.6);
+}
+.street p {
+	font-size: 15px;
+}
+.street span {
+	font-size: 16px;
+}
+.button {
+	padding: 6px;
+	font-size: 14px;
+	text-transform: uppercase;
+	margin: 0;
+}
+.footer_section {
+	padding: 50px 0px !important;
+}
+
+
+/* about page css started */
+
+.about_section_top {
+	height: auto;
+	margin-top: 60px;
+}
+.about_studio {
+	width: 100%;
+	position: relative;
+	left: 0;
+	top: 0;
+	transform: translate(-0%,-0%);
+	border: none;
+}
+.studio_content {
+	margin-top: 40px;
+	text-align: center;
+}
+.what_we_mgs {
+	width: 100%;
+}
+.what_we_mgs h1 {
+	font-size: 25px;
+} 
+.studio_content p {
+	font-size: 15px;
+}
+.owner_msg p {
+	font-size: 15px;
+}
+.about_message {
+	padding: 70px 0px;
+}
+.owner_msg {
+	margin-top: 25px;
+}
+.messanger_img {
+	height: 100%;
+}
+.what_we_mgs {
+	width: 90%;
+}
+.single_images {
+	height: 100%;
+	border-bottom: 1px solid #fff;
+}
+.what_we_mgs p {
+	font-size: 17px;
+}
+.footer_section {
+	padding: 50px 0px !important;
+}
+
+
+
+
+
+/* advisor's corner page css started */
+.banner_content {
+	width: 100%;
+	text-align: center;
+}
+.banner_content h1 {
+	font-size: 40px;
+}
+.advisor_image {
+	margin-bottom: 50px;
+}
+.advisor_message h3 {
+	margin-bottom: 12px;
+}
+.advisor_section {
+	padding: 30px 0px;
+}
+.horourable_desc h3 {
+	margin-top: 60px;
+}
+.horourable_desc h3 {
+	font-size: 23px;
+}
+.horourable_desc p {
+	font-size: 13px;
+}
+
+
+/* Conatact page css started */
+.contact_section {
+	margin-top: 60px;
+	padding: 40px 0px;
+	color: #fff;
+}
+.contact_section h2 {
+	font-size: 29px;
+}
+.contact_box {
+	width: 95%;
+	padding: 0px 0px;
+	margin: 0 auto;
+}
+.form_headline h4 {
+	font-size: 22px;
+}
+.contact_section {
+	height: 100%;
+}
+.contact_box input[type="text"] {
+	padding: 8px;
+	border-radius: 2px;
+	margin-bottom: 18px;
+}
+.contact_box textarea {
+	border-radius: 2px;
+	height: 170px;
+	padding: 8px 8px;
+}
+.contact_button {
+	width: 100%;
+}
+/* gallery page css started */
+.content h3 {
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.content p {
+	font-size: 12px;
+	margin: 0;
+}
+.single_img > i {
+	font-size: 40px;
+}
+.content {
+	padding: 8px 8px;
+}
+
+
+
+/* executive page css started */
+.executive_committee_section {
+	padding: 45px 0px;
+}
+.committee_headline h2 {
+	font-size: 30px;
+}
+.single_member {
+	width: 100%;
+	height: 300px;
+	margin-bottom: 30px;
+}
+
+
+
+
+.image_uploade_area {
+	height: 100%;
+}
+.main_imput_section {
+	position: inherit;
+	left: 0;
+	top: 0;
+	transform: translate(-0,-0);
+}
+.image_uploade_area {
+	height: 100%;
+	padding: 50px 20px;
+	margin-top: 60px;
+}
+
+.content_details {
+	margin-bottom: 50px;
+}
+.content_details h3 {
+	font-size: 20px;
+}
+.content_details ul li {
+	font-size: 15px;
+}
+.workshop_partners_area {
+	padding: 40px 0px;
+}
+.single_partners {
+	height: inherit;
+}
+
+
+
+
+
+
+ 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+#carouselExampleIndicators {
+	margin-top: 80px;
+}
+.navbar {
+	padding: 0;
+}
+.navbar-brand {
+	width: 55%;
+}
+
+.navbar-light .navbar-toggler {
+	border: none;
+	outline: none;
+}
+.navbar-nav {
+	margin-top: 10px;
+}
+.nav-item {
+	padding: 0px 15px;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+.navbar li a {
+	display: block;
+	font-size: 13px;
+	padding: 7px 8px;
+}
+.dropdown-menu {
+	padding: 0;
+	border: none;
+	border-radius: 0;
+	margin-left: 10px;
+	width: 70% !important;
+	float: right !important;
+}
+.navbar-nav .nav-link {
+	color: #000 !important;
+	padding: 6px 7px;
+}
+.navbar li a {
+	box-shadow: 0px 0px 2px 1px #ddd;
+	margin-bottom: 5px;
+}
+.dropdown-toggle::after {
+	margin-left: 196px;
+	vertical-align: 2px;
+	border-top: 0.4em solid;
+	border-right: .4em solid transparent;
+	border-left: .4em solid transparent;
+	position: absolute;
+	right: 25px;
+	top: 13px;
+}
+.carousel-inner {
+	height: 100%;
+}
+.submition_section {
+	padding: 50px 0px;
+}
+.submition_section a {
+	padding: 5px 10px;
+	border: 2px solid #ff2a40;
+	font-weight: 400;
+	width: 158px;
+	text-align: center;
+	font-size: 14px;
+}
+.submition_section h4 {
+	font-size: 18px;
+}
+.submition_section h4 span {
+	margin-left: 42px;
+}
+.navbar-nav > li::before {
+	display: none;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+	color: #ff2a40 !important;
+}
+.teamy-team {
+	--scrollerNumberVisibleItems: 1;
+}
+.team_description p {
+	font-size: 16px;
+}
+.team_description > a {
+	font-size: 13px;
+	padding: 7px 30px;
+	margin-top: 30px;
+}
+.teamy__name {
+	font-size: .9em;
+}
+.teamy__post {
+	margin-top: .5em;
+	font-size: .5em;
+}
+.carousel-item {
+	height: 250px;
+}
+.carousel-item img {
+	width: 100%;
+	height: 100%;
+}
+.head_line {
+	font-size: 28px;
+}
+.about_sec p {
+	font-size: 18px;
+}
+.container {
+	 max-width: 100%; 
+}
+.activiti_box {
+	min-height: 0;
+	height: 440px;
+}
+.activiti_sec h3 {
+	margin-top: 17px;
+	font-size: 24px;
+}
+.PhotoHeader {
+	width: 100%;
+}
+.street .pad {
+	padding: 80px 15px;
+}
+.section_gellary {
+	padding: 50px 0px;
+}
+
+
+/* about page css started */
+
+.about_section_top {
+	height: auto;
+	margin-top: 80px;
+}
+.about_studio {
+	width: 100%;
+	position: relative;
+	left: 0;
+	top: 0;
+	transform: translate(-0%,-0%);
+}
+.studio_content {
+	margin-top: 40px;
+	text-align: center;
+}
+.what_we_mgs {
+	width: 100%;
+}
+.what_we_mgs h1 {
+	font-size: 27px;
+}
+.about_message {
+	padding: 70px 0px;
+}
+.owner_msg {
+	margin-top: 25px;
+}
+.messanger_img {
+	height: 100%;
+}
+.what_we_mgs {
+	width: 90%;
+}
+.single_images {
+	height: 100%;
+	border-bottom: 1px solid #fff;
+}
+.footer_section {
+	padding: 60px 0px !important;
+}
+
+
+
+/* advisor's corner page css started */
+.banner_content {
+	width: 100%;
+	text-align: center;
+}
+.banner_content h1 {
+	font-size: 48px;
+}
+.advisor_image {
+	margin-bottom: 50px;
+}
+.advisor_message h3 {
+	margin-bottom: 12px;
+	font-size: 21px;
+}
+.advisor_section {
+	padding: 30px 0px;
+}
+.horourable_desc h3 {
+	margin-top: 60px;
+}
+.horourable_desc h3 {
+	font-size: 23px;
+}
+.horourable_desc p {
+	font-size: 13px;
+}
+.advisor_message p {
+	font-size: 15px;
+}
+
+
+
+/* Conatact page css started */
+.contact_section {
+	margin-top: 80px;
+	padding: 50px 0px;
+	color: #fff;
+}
+.contact_box {
+	position: relative;
+	top: 0;
+	left: 0;
+	transform: translate(-0%,-0%);
+	background: transparent;
+	padding: 0;
+	box-shadow: none;
+	width: 70%;
+	margin: 0 auto;
+	padding: 40px 0px;
+}
+.contact_section {
+	height: 100%;
+}
+.contact_box input[type="text"] {
+	padding: 8px;
+	border-radius: 2px;
+	margin-bottom: 18px;
+}
+.contact_box textarea {
+	border-radius: 2px;
+	height: 170px;
+	padding: 8px 8px;
+}
+.contact_button {
+	width: 100%;
+}
+.contact_box {
+	padding: 0px 0px;
+}
+.contact_section h2 {
+	font-size: 26px;
+	margin-bottom: 15px;
+}
+.form_headline h4 {
+	font-size: 22px;
+}
+
+/* gallery page css started */
+.content h3 {
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.content p {
+	font-size: 12px;
+	margin: 0;
+}
+.single_img > i {
+	font-size: 30px;
+}
+.content {
+	padding: 8px 8px;
+}
+
+
+/* executive page css started */
+.executive_committee_section {
+	margin-top: 0px;
+	padding: 10px 0px;
+}
+.committee_headline h2 {
+	font-size: 28px;
+}
+.single_member {
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.member_desc h3 {
+	font-size: 22px;
+}
+.member_desc p {
+	font-size: 12px;
+}
+
+
+.content_details h3 {
+	font-size: 19px;
+}
+.content_details ul li {
+	font-size: 14px;
+}
+.main_imput_section input[type="text"], .main_imput_section input[type="file"], select, .main_imput_section input[type="submit"] {
+	font-size: 13px;
+}
+.main_imput_section textarea {
+	font-size: 13px;
+}
+.workshop_partners_area {
+	padding: 40px 0px;
+}
+.messanger_img {
+	width: 70%;
+	margin: 15px auto;
+}
+.owner_msg {
+	margin-top: 25px;
+	min-height: 300px;
+}
+
+ 
+}
+
+
+
+
+
+
+
+
